@@ -1,0 +1,28 @@
+name: Everlearn Application
+favicon: null
+layout_spectrum: 0.49956807354465127
+typography_spectrum: 0.17304732860065997
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9525081622414291
+  lightness: 0.6115983538329601
+  saturation: 0.18511725729331374
+  rhythmicContrast: 0.6000588319730014
+purpose: []
